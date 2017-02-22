@@ -1,0 +1,232 @@
+* {
+    /*border: 1px solid red !important;*/
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+table.show {
+      width:100%;
+      border-collapse: collapse;
+      border-spacing: 0;
+      text-align: center;
+      border: 1px dotted #ccc;
+  }
+th.show {
+      height:40px;
+      text-align: center;
+      border-bottom: 1px dotted #ccc;
+      background-color: #00b386;
+      color:black;
+
+}
+tr.show {
+      height:30px;
+      text-align: center;
+      border: 1px dotted #ccc;
+      font-weight: lighter;
+
+}
+
+table.add {
+      width:100%;
+      border-collapse: collapse;
+      border-spacing: 0 1em;
+      margin:0;
+  }
+tr.add {
+      text-align: left;
+      height:40px;
+}
+
+.cite{
+    color:grey;
+    font-size:10px;
+    padding-top:0px;
+}
+
+.container{
+    width: 100%;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+.col-md-1 {
+    width: 8.33%;
+}
+
+.col-md-2 {
+    width: 16.66%;
+}
+
+.col-md-3 {
+    width: 25%;
+}
+
+.col-md-4 {
+    width: 33.33%;
+}
+
+.col-md-5 {
+    width: 41.66%;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+
+.col-md-7 {
+    width: 58.33%;
+}
+
+.col-md-8 {
+    width: 66.66%;
+}
+
+.col-md-9 {
+    width: 75%;
+}
+
+.col-md-10 {
+    width: 83.33%;
+}
+
+.col-md-11 {
+    width: 91.66%;
+}
+
+.col-md-12 {
+    width: 100%;
+}
+
+.banner{
+    height:500px;
+    background:url(../image/banner.jpg);
+    /*https://www.mercedesamgf1.com/en/mercedes-amg-f1/amg-f1-wallpaper/*/
+    font-family: 'Oswald', sans-serif;
+    background-position: 50% 50%;
+
+}
+
+.content{
+    background-color: #1a1a1a;
+    color:#f2f2f2;
+    padding-top:10px;
+    padding-bottom: 20px;
+}
+
+.menu{
+    background-color: #1a1a1a;
+    color:#f2f2f2;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 30px;
+
+}
+
+.respond{
+    background-color: #1a1a1a;
+    color:#e60000;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin:0px;
+
+}
+
+#result{
+    padding-top:40px;
+
+}
+
+#title_1{
+    padding-top:200px;
+    color:white;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+#title_2{
+    padding-top:10px;
+    color:white;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.show_all{
+    margin-top:10%;
+    width:150px;
+}
+
+.button{
+    width:90%;
+    margin: 0;
+}
+
+.sub{
+    width:90%;
+    margin: 0;
+    background-color:#999999;
+}
+
+.footer{
+    height:30px;
+    background-color: #00b386;
+    /*https://www.mercedesamgf1.com/en/mercedes-amg-f1/amg-f1-wallpaper/*/
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+
+}
+
+.flag{
+    width:35px;
+    vertical-align: bottom;
+}
+
+.search{
+  background-color: #1a1a1a;
+  color:#e60000;
+  font-family: 'Oswald', sans-serif;
+  font-size:20px;
+  text-align: center;
+  margin:0;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
+
+
+/*https://en.wikipedia.org/wiki/Germany*/
+/*https://en.wikipedia.org/wiki/Flag_of_Finland*/
+/*https://twitter.com/f1*/
+/*https://en.wikipedia.org/wiki/Spain#/media/File:Flag_of_Spain.svg*/
+/*https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg*/
+
+
+
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+    background-color: grey;
+    text-decoration: none;
+  }
