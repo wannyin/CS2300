@@ -1,0 +1,10 @@
+2007,Finland,Kimi Raikkonen,6,Ferrari,3,6,12,6,110
+2008,United Kingdom,Lewis Hamilton,22,McLaren,7,5,10,1,98
+2009,United Kingdom,Jenson Button,22,Brawn,4,6,9,2,95
+2010,Germany,Sebastian Vettel,5,Red Bull,10,5,10,3,256
+2011,Germany,Sebastian Vettel,1,Red Bull,15,11,17,3,392
+2012,Germany,Sebastian Vettel,1,Red Bull,6,5,10,6,281
+2013,Germany,Sebastian Vettel,1,Red Bull,9,13,16,7,397
+2014,United Kingdom,Lewis Hamilton,44,Mercedes,7,11,16,7,384
+2015,United Kingdom,Lewis Hamilton,44,Mercedes,11,10,17,8,381
+2016,Germany,Nico Rosberg,6,Mercedes,8,9,16,6,385
